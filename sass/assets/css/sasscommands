@@ -1,0 +1,12 @@
+sass assets/css/app.scss assets/css/styles.css
+
+sass --watch assets/css/app.scss:assets/css/styles.css
+
+sass --watch --style compressed assets/css/app.scss:assets/css/styles.css
+
+
+enigma group
+
+
+xfc
+zsh - shell
